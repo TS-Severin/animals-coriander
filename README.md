@@ -1,4 +1,4 @@
-### Repo pushed from local to GitHub
+### Animals for coriander cohort
 
 ## cool black cat
 
